@@ -1,7 +1,7 @@
-# twitter-sentiment-analysis  
-### Uses multinomial naive bayes classifier
+# Twitter-sentiment-analysis  
+## Uses multinomial naive bayes classifier
 
-#### Datasets taken from
+### Datasets taken from
 * **[Kaggle Twitter dataset](https://www.kaggle.com/c/twitter-sentiment-analysis2/data)**
 
 
